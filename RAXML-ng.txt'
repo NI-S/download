@@ -1,0 +1,2 @@
+# Commands op dit moment gebruikt in de terminal
+raxml-ng --msa src/fasta/alignment/Abacionidae_NT.fasta --model GTR+G --nofiles #kan de alignment niet vinden
